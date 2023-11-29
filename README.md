@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikenurthen
 - 👀 I’m interested in ... beer, wine, trumpet, choral singing
-- 🌱 I’m currently learning ... data analysis through EdX and UPEnn Data ANalytics Bootcamp beginning DEcember 18, 2023.
+- 🌱 I’m currently learning ... data analysis through the UPenn Data Analytics Bootcamp in partnership with edX.org beginning December 18, 2023.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mikenurthen@gmail.com
 
