@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikenurthen
-- 👀 I’m interested in ... beer, wine, trumpet, choral singing
+- 👀 I’m interested in ... artisinal wine, dogs, trumpet, and choral singing.
 - 🌱 I’m currently learning ... data analysis through the UPenn Data Analytics Bootcamp in partnership with edX.org beginning December 18, 2023.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mikenurthen@gmail.com
