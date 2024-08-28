@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikenurthen
-- 👀 I’m interested in ... artisinal wine, dogs, trumpet, and choral singing.
-- 🌱 I’m currently learning ... data analysis through the UPenn Data Analytics Bootcamp in partnership with edX.org beginning December 18, 2023.
+- 👀 I’m interested in artisinal wine, all things dogs, vintage trumpets, and choral singing.
+- 🌱 June 2024 Graduate of the UPenn Data Analytics Bootcamp in partnership with edX.org
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mikenurthen@gmail.com
 
