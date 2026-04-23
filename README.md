@@ -1,4 +1,4 @@
-## Who Am I
+## Who I Am
 Data Analyst with a background in sales and the beverage industry, focused on turning messy data into clear business insights.
 
 ## What I Do
@@ -28,6 +28,7 @@ Automate repetitive reporting and data cleaning processes
 - Exploratory data analysis
 ### 📫 Connect With Me
 LinkedIn: https://www.linkedin.com/in/michael-nurthen-8b808111/
+
 Email: mikenurthen@gmail.com
 
 <!---
